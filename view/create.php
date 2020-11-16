@@ -4,7 +4,7 @@ if (isset($message)) {
 }
 ?> -->
 <div class="container">
-    <h2 class="text-primary">Create Product</h2>
+    <h2 class="text-primary">Create Products</h2>
     <form class="row from-group" method="post">
         <div class="col-12 pt-3">
             Title : <input type="text" name="title" class="form-control col-8">
